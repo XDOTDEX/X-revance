@@ -1,6 +1,6 @@
 {
-  "version": "v7.48.0.813334473 (patches 5.42.1)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/XDOTDEX/X-revance/releases/download/9/googlephotos-revanced-magisk-v7.48.0.813334473-arm-v7a.zip",
+  "version": "v7.49.0.816946145 (patches 5.43.0)",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/XDOTDEX/X-revance/releases/download/10/googlephotos-revanced-magisk-v7.49.0.816946145-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/XDOTDEX/X-revance/update/build.md"
 }
