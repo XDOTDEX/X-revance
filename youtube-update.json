@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.43.1)",
-  "versionCode": 11,
-  "zipUrl": "https://github.com/XDOTDEX/X-revance/releases/download/11/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 5.44.0)",
+  "versionCode": 12,
+  "zipUrl": "https://github.com/XDOTDEX/X-revance/releases/download/12/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/XDOTDEX/X-revance/update/build.md"
 }
